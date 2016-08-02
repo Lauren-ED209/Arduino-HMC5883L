@@ -21,6 +21,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #ifndef HMC5883L_h
 #define HMC5883L_h
 
+#define M_PI 3.1415
+
 #if ARDUINO >= 100
 #include "Arduino.h"
 #else
